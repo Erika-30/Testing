@@ -12,13 +12,13 @@ describe("calc", () => {
     });
   });
 
-  describe("addThense", () => {
+  describe("addTheSe", () => {
     test("does exist the function?", () => {
-      expect(addThense).toBeDefined();
+      expect(addTheSe).toBeDefined();
     });
 
     test("resive two numbes to add them", () => {
-      expect(addThense(3, 5)).toEqual(8);
+      expect(addTheSe(3, 5)).toEqual(8);
     });
   });
 });
